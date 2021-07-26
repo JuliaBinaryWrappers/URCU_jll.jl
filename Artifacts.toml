@@ -1,0 +1,127 @@
+[[URCU]]
+arch = "aarch64"
+git-tree-sha1 = "14a52917e1011e031d23991fab5e496416c21db7"
+os = "macos"
+
+    [[URCU.download]]
+    sha256 = "cbd9b65ea1248f363f388b64a81513df0ad064011fb2272ec9f23142b399b663"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.aarch64-apple-darwin.tar.gz"
+[[URCU]]
+arch = "aarch64"
+git-tree-sha1 = "9541febe28af88b50cee85d9146863f519322d64"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "46a8c9f1f96da61a22655877b0b6f53ada914da615e4dbc8343e53da450a75b0"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.aarch64-linux-gnu.tar.gz"
+[[URCU]]
+arch = "aarch64"
+git-tree-sha1 = "b569873f5b8de87a57ecf833c43599c836b43320"
+libc = "musl"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "ccd783fe1cd006c0569c0dddd977a0507a0fa2c1e674a5266d96c61d2b5fe811"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.aarch64-linux-musl.tar.gz"
+[[URCU]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "76c5de069e15768037170c7dd765fe48e97e8beb"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "669527ec3cdd35f124aa28762707e02dbdf1927d65223f234a45442ec6f7a0f8"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.armv6l-linux-gnueabihf.tar.gz"
+[[URCU]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "251277d4bbcc87e4eec5263faa3f44d479369a6d"
+libc = "musl"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "0b609e53b7afe419046034bb76bce7758aae8cc2a7ee3a3e646b214a60afe6c2"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.armv6l-linux-musleabihf.tar.gz"
+[[URCU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "10b43d33daacd8165747c74ea6aa63830ee5d76d"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "3e1742c307be3ec139743a89b7df52a18e64ee3a623cfec535b0bf77cf6a541c"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.armv7l-linux-gnueabihf.tar.gz"
+[[URCU]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "538933ef49553679c25f94af393a6e561183124c"
+libc = "musl"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "bdddc2c4383a8d488fdd1e59dee05a7a0543fecd7059093348b44d68ee703e01"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.armv7l-linux-musleabihf.tar.gz"
+[[URCU]]
+arch = "i686"
+git-tree-sha1 = "e81a2a48fa2debefe5c09fcab442fd32e34eb416"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "d38ac2c1363b3b36232e66dc27e604ef3e99706c3b7dcf8c6b2ddef713e46d94"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.i686-linux-gnu.tar.gz"
+[[URCU]]
+arch = "i686"
+git-tree-sha1 = "218fabf315f1347591810654f57a3e9791dad98b"
+libc = "musl"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "fd32191fff31958e3816371025a9e051d60306d298653628d7bf2a054556c837"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.i686-linux-musl.tar.gz"
+[[URCU]]
+arch = "powerpc64le"
+git-tree-sha1 = "5409e0bb5c3645631bf10e7ce75f68f7cae1751d"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "d2a185df3dce15298bc225c352f4c5fb8e79b3e0f45711b38fbcc5e861e26c27"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.powerpc64le-linux-gnu.tar.gz"
+[[URCU]]
+arch = "x86_64"
+git-tree-sha1 = "7818b0336cc54228a0a8702c57a6dbaa92807bb7"
+os = "macos"
+
+    [[URCU.download]]
+    sha256 = "90255ce96b649cabee8f44104b8394654c5481de7f26a80085f6e4c358d57ef4"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.x86_64-apple-darwin.tar.gz"
+[[URCU]]
+arch = "x86_64"
+git-tree-sha1 = "0acb15550678d9744b889be3504442e37d3be3f0"
+libc = "glibc"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "a79b095fc9066dc3aad1eb1c916186d8a3496bfefb75baf00c59428b697f69c1"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.x86_64-linux-gnu.tar.gz"
+[[URCU]]
+arch = "x86_64"
+git-tree-sha1 = "1f7c79e150329887dba8813a061d0eb38bfad9d5"
+libc = "musl"
+os = "linux"
+
+    [[URCU.download]]
+    sha256 = "dfc4ff8756dd3fa074600d716ce886213c87bd2c8ad3f86dced610e288e9187c"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.x86_64-linux-musl.tar.gz"
+[[URCU]]
+arch = "x86_64"
+git-tree-sha1 = "3513248581f90a8b8b767fda8574be9cfc090bed"
+os = "freebsd"
+
+    [[URCU.download]]
+    sha256 = "7e531baf784d33467e74a691e0a5bbddcfd8fde77edf6761db7da898e914326d"
+    url = "https://github.com/JuliaBinaryWrappers/URCU_jll.jl/releases/download/URCU-v0.13.0+0/URCU.v0.13.0.x86_64-unknown-freebsd.tar.gz"
